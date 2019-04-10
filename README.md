@@ -95,11 +95,21 @@
 
 * https://www.room.sh
 
+## Animation
+
+* http://esotericsoftware.com - 2D animation for games
+* https://createwithflow.com - Professional Sketch Animation Software
+* https://spiritapp.io - Spirit is the animation tool for the web.
+* https://jeremyckahn.github.io/stylie - A fun web animation tool
+* https://www.2dimensions.com/about-flare - Bring Your Apps and Games to Life with Real-Time Animation
+* https://www.haikuforteams.com - Create engaging animations for any app or website.
+
 ## UI design software
 
 * https://www.figma.com - Design, prototype, and collaborate all in the browser—with Figma.
 * https://www.sketch.com - The digital design toolkit
 * https://www.framer.com - Bring your creative ideas to life with Framer X, the best tool for interactive design. Create responsive layouts, design realistic prototypes, and bring everything closer to production—all in one place.
+* https://icons8.com/lunacy - Lunacy is a native Windows app that opens, edits, and stores .sketch files. And it’s completely free.
 
 ## UI frameworks
 
