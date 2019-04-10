@@ -23,6 +23,10 @@
 * https://webpack.js.org
 * https://parceljs.org
 
+## Color tools
+
+* https://geenes.app - Create a color scale in seconds, then export it to sketch or code
+
 ## Webdev transpilers & DSL's
 
 * https://sass-lang.com
