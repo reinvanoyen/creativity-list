@@ -111,6 +111,11 @@
 * https://www.framer.com - Bring your creative ideas to life with Framer X, the best tool for interactive design. Create responsive layouts, design realistic prototypes, and bring everything closer to production—all in one place.
 * https://icons8.com/lunacy - Lunacy is a native Windows app that opens, edits, and stores .sketch files. And it’s completely free.
 
+## Code version control
+
+* https://git-scm.com - Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency.
+* https://gitexplorer.com - Find the right Git commands you need without digging through the web.
+
 ## UI frameworks
 
 * https://www.patternfly.org - PatternFly is an open source web user interface framework promoting consistency and usability across IT applications through UX patterns and widgets.
