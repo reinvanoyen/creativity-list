@@ -11,6 +11,11 @@
 * https://usepastel.com - Pastel is the easiest, and fastest way for web designers, developers, and agencies to collect feedback on the websites they're building.
 * https://contentsnare.com - Get Content From Your Clients Without The Hassle Content Snare helps digital agencies get website & marketing content from their clients on time, in the right format, without email.
 
+## Webdesign & UI inspiration
+
+* https://www.checklist.design - A collection of the best UX and UI practices.
+* https://www.pages.xyz - The best web pages around
+
 ## Webdev task managers & bundlers
 
 * https://gulpjs.com
