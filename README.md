@@ -52,9 +52,14 @@
 
 * https://codex.so/editor - Block style visual editor for beautiful pages
 
-## Webdev related services
+## Webdev related tools & services
 
 * https://tripetto.app - Tripetto is an uncommon tool for creating and deploying powerful online interactions - Ultimately serving to change conventional forms to vivid conversations.
+* https://marky.space/redacted/ - Redact areas from images online - fast and easy.
+
+## Website analytics & monitoring services
+
+* https://www.hotjar.com
 
 ## Graphics, illustrations and icons
 
@@ -64,6 +69,7 @@
 ## Note-taking & knowledge services and software
 
 * https://www.notion.so
+* https://www.nuclino.com
 
 ## Online meeting / collaboration
 
