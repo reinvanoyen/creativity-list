@@ -9,6 +9,7 @@
 * https://www.sketch.com - The digital design toolkit
 * https://www.framer.com - Bring your creative ideas to life with Framer X, the best tool for interactive design. Create responsive layouts, design realistic prototypes, and bring everything closer to production—all in one place.
 * https://icons8.com/lunacy - Lunacy is a native Windows app that opens, edits, and stores .sketch files. And it’s completely free.
+* https://www.adobe.com/be_en/products/xd.html - Adobe XD is made for designers like you, by designers like us. It’s the fastest way to design, prototype and share any user experience, from websites and mobile apps to voice interactions and more. And it’s free.
 
 ### Workflow & collaboration
 
@@ -116,10 +117,19 @@
 
 * https://octobercms.com - The award-winning CMS platform trusted by thousands of digital studios and their clients. Based on Laravel.
 
+### CSS frameworks
+
+* https://tailwindcss.com - A utility-first CSS framework for rapidly building custom user interfaces.
+
 ### UI frameworks
 
 * https://www.patternfly.org - PatternFly is an open source web user interface framework promoting consistency and usability across IT applications through UX patterns and widgets.
 * https://amp.dev
+
+### Website checklists
+
+* https://www.process.st/checklist/website-launch-checklist/
+* https://websitelaunchchecklist.com - Launch your next web project with complete confidence! Click or tap to mark rows as completed or not-applicable. Changes are saved automatically (using cookies) so feel free to close the page and come back later.
 
 ### Utilities
 
