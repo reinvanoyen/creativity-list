@@ -33,15 +33,28 @@
 * https://www.pages.xyz - The best web pages around
 * https://pageflows.com - User flow videos & screenshots to inspire you when you're stuck
 * http://collectui.com - Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily.
+* https://www.typewolf.com - What's trending in type
 
 ### Learning
 
 * https://www.udemy.com - The world’s largest selection of courses. Choose from over 100,000 online video courses with new additions published every month.
 * https://www.skillshare.com - Thousands of classes to fuel your creativity and career.
 
+### Font tools
+
+* http://typewonder.com - Helps you to test web fonts on any web site on the fly ! Enter the site url and preview instantly the fonts with-out any hassle!
+
 ### Color tools
 
 * https://geenes.app - Create a color scale in seconds, then export it to sketch or code
+* https://color.hailpixel.com - A minimal swatch picker
+* https://colorhunt.co - Color Hunt is a free and open platform for color inspiration with thousands of trendy hand-picked color palettes
+* https://www.colorbox.io - Create accessible color systems
+* http://jxnblk.com/hello-color/ - Color contrast generator
+* https://abc.useallfive.com - A tool to make sure your brand colors are ADA compliant.
+* https://colorleap.app - Take a leap through time and see the colors of history.
+* https://colorspark.app - A simple tool to generate better colors and gradients.
+* http://khroma.co - Discover, search, and save color combinations you'll love. (With a trained AI model)
 
 ### Illustrations
 
