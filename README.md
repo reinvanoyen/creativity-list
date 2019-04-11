@@ -150,6 +150,7 @@
 * https://postkit.io - Build applications faster with Postkit's simple mock APIs.
 * https://repl.it - Repl.it gives you an instant IDE to learn, build, collaborate, and host all in one place.
 * https://hyper.is - HTML/JS/CSS terminal
+* https://www.wappalyzer.com - Wappalyzer is a cross-platform utility that uncovers the technologies used on websites. It detects content management systems, ecommerce platforms, web frameworks, server software, analytics tools and many more.
 
 ### Games & gamified learning
 
