@@ -9,7 +9,23 @@
 * https://www.sketch.com - The digital design toolkit
 * https://www.framer.com - Bring your creative ideas to life with Framer X, the best tool for interactive design. Create responsive layouts, design realistic prototypes, and bring everything closer to production—all in one place.
 * https://icons8.com/lunacy - Lunacy is a native Windows app that opens, edits, and stores .sketch files. And it’s completely free.
+* https://www.invisionapp.com/ - The digital product design platform powering the world’s best user experiences.
+* https://marvelapp.com - The all-in-one platform powering design. 
 * https://www.adobe.com/be_en/products/xd.html - Adobe XD is made for designers like you, by designers like us. It’s the fastest way to design, prototype and share any user experience, from websites and mobile apps to voice interactions and more. And it’s free.
+* https://www.uxpin.com - UI Design and Prototyping Tool. Prototypes that feel real, with powers of code components, logic, states and design systems.
+* https://moqups.com/ - A streamlined web app that helps you create and collaborate in real-time on wireframes, mockups, diagrams and prototypes.
+
+### Prototyping
+
+* https://www.protopie.io/ - Create the most advanced prototypes as easy as Pie.
+* https://www.justinmind.com/ - All-in-one prototyping tool for web and mobile apps, from wireframes to highly interactive prototypes.
+* https://principleformac.com - Principle makes it easy to design animated and interactive user interfaces. Whether you're designing the flow of a multi-screen app, or new interactions and animations. 
+* https://proto.io/ - Create fully-interactive high-fidelity prototypes that look and work exactly like your app should. No coding required.
+
+### Wireframing
+
+* https://wireframe.cc - A minimal wireframing tool that doesn't get in your way. Create and share simple wireframes of websites and mobile apps.
+* https://balsamiq.com/ - Quick and Easy Wireframing Tool. Sketch your User Interface ideas and get everyone on the same page.
 
 ### Workflow & collaboration
 
@@ -34,7 +50,21 @@
 * https://pageflows.com - User flow videos & screenshots to inspire you when you're stuck
 * http://collectui.com - Daily inspiration collected from daily ui archive and beyond. Hand picked, updating daily.
 * https://www.typewolf.com - What's trending in type
+* https://www.siteinspire.com/ - A CSS gallery and showcase of the best web design inspiration, featuring over 2500 websites searchable by type, subject, and style.
+* https://www.awwwards.com - Awwwards are the Website Awards that recognize and promote the talent and effort of the best developers, designers and web agencies in the world.
+* https://thefwa.com/ -  FWA's mission is to showcase cutting edge creativity, regardless of the medium or technology used.
+* https://thegallery.io/ - Minimal websites. A curated collection of interesting and original websites. 
+* https://www.cssdesignawards.com/ - A web design & development award platform for digital folk, UI/UX peeps and inspiring leaders of the web.
+* https://hoverstat.es/ - The home of alternative digital design. 
+* https://tympanus.net/codrops - Useful resources and inspiration for creative minds.
+* https://dribbble.com/ - Dribbble is where designers gain inspiration, feedback, community, and jobs and is your best resource to discover and connect with designers worldwide.
+* https://www.behance.net - Showcase and discover the latest work from top online portfolios by creative professionals across industries.
 
+### Inspirational blogs
+
+* https://medium.com/ - A place to read and write big ideas and important stories.
+* https://www.creativebloq.com/ - Daily inspiration for creative people. Fresh thinking, expert tips and tutorials to supercharge your creative muscles.
+ 
 ### Learning
 
 * https://www.udemy.com - The world’s largest selection of courses. Choose from over 100,000 online video courses with new additions published every month.
@@ -42,7 +72,9 @@
 
 ### Font tools
 
-* http://typewonder.com - Helps you to test web fonts on any web site on the fly ! Enter the site url and preview instantly the fonts with-out any hassle!
+* http://typewonder.com - Helps you to test web fonts on any web site on the fly! Enter the site url and preview instantly the fonts with-out any hassle!
+* https://fontjoy.com/ - Generate font pairings in one click!
+* https://www.myfonts.com/WhatTheFont/ - Seen a font in use and want to know what it is? Upload an image to WhatTheFont to find the closest matches in the database.
 
 ### Color tools
 
@@ -68,6 +100,7 @@
 
 * https://thenounproject.com - Over 2 Million curated icons, created by a global community.
 * https://www.ikonate.com - Customise, adjust and download free vector icons. Ikonate is an adaptable set of optimised, accessible SVG icons that use can easily use in both development and design apps such as Sketch and Photoshop.
+
 
 ## Webdevelopment
 
@@ -157,6 +190,7 @@
 
 * https://cssbattle.dev
 
+
 ## Collaboration
 
 ### Online meeting
@@ -168,6 +202,7 @@
 * https://www.notion.so
 * https://www.nuclino.com
 
+
 ## Cryptocurrency
 
 ### Trading bots
@@ -177,6 +212,7 @@
 ### Utilities
 
 * http://doiownashitcoin.com
+
 
 ## Devops
 
@@ -202,6 +238,7 @@
 ### Automation
 
 * https://zapier.com
+
 
 ## Marketing
 
