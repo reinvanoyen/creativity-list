@@ -95,6 +95,12 @@
 * https://icons8.com/ouch - Free illustrations to class up your project.
 * https://gallery.manypixels.co - Each week, discover royalty-free illustrations to power up your projects.
 * https://absurd.design - Absurd illustrations that make sense
+* https://www.humaaans.com - Mix-&-match illustrations of people with a design library
+* https://www.ls.graphics/whoosh - Free illustrations for your projects
+* https://www.karthiksrinivas.in/charco - A set of 16 handcrafted illustrations for your web & app projects.
+* https://iradesign.io - Build your own amazing illustrations
+* https://stubborn.fun - Get the opportunity to design your characters using our generator absolutely for free
+* https://www.isometriclove.com - Cute Isometric Objects For Your Design
 
 ### Icons
 
