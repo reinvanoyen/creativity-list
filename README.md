@@ -106,7 +106,7 @@
 
 * https://thenounproject.com - Over 2 Million curated icons, created by a global community.
 * https://www.ikonate.com - Customise, adjust and download free vector icons. Ikonate is an adaptable set of optimised, accessible SVG icons that use can easily use in both development and design apps such as Sketch and Photoshop.
-
+* https://akveo.github.io/eva-icons/ - Eva Icons is a pack of more than 480 beautifully crafted Open Source icons for common actions and items.
 
 ## Webdevelopment
 
